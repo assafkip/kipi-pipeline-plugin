@@ -1,0 +1,12 @@
+{
+  "name": "kipi-pipeline",
+  "version": "1.0.0",
+  "description": "Multi-phase morning routine pipeline for founders. 24 agents across 9 phases: data ingest, analysis, LinkedIn, content, pipeline, compliance, synthesis, build, and Notion write-back. Produces a daily HTML action plan with copy-paste-ready outreach.",
+  "author": {
+    "name": "Assaf Kipnis",
+    "url": "https://github.com/assafkip"
+  },
+  "repository": "https://github.com/assafkip/kipi-pipeline-plugin",
+  "license": "MIT",
+  "keywords": ["founder", "morning-routine", "agent-pipeline", "outreach", "ADHD", "executive-function"]
+}
